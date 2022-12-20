@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <div>
         <h1>{message}</h1>
+        <button>абеме</button>
       <button onClick={Hello} className="Hello">Нажми на меня</button>
       </div>
     </div>
